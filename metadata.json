@@ -1,0 +1,5 @@
+{
+  "name": "Visionary AI",
+  "description": "A modern image analysis application using Gemini Vision capabilities to generate detailed descriptions of uploaded images.",
+  "requestFramePermissions": []
+}
